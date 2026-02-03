@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Word Counter</title>
+    <title>Word </title>
     <style>
         body { font-family: sans-serif; background-color: #9cf0f3; display: flex; justify-content: center; padding-top: 50px; height: 100vh; box-sizing: border-box;}
         .container { background: white; padding: 30px; border-radius: 10px; width: 100%; max-width: 500px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1); height: fit-content;}
